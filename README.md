@@ -1,6 +1,6 @@
 # UNIDAD_3
 # Proyecto Arduino con LCD y Java.
->Creado por: Diego Salvador suàrez Quijas.
+>Creado por: Diego Salvador Suàrez Quijas.
 
 >Contacto: d.salvador0604@gmail.com
 
