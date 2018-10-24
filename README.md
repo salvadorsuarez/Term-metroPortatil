@@ -6,8 +6,8 @@
 
 ## Arduino con un LCD desplegar.
 - Mensaje (Libre).
-- Hora 
-- Temperatura
+- Hora (Tiempo Real)
+- Temperatura (Tiempo Real).
 
 El usuario puede navegar entre los mensajes crear una interfaz en java para mandar los mensajes al arduino, mostrando cada uno de los solicitado como la temperatura, Hora, y los mensajes que le mandemos. cada funcion con un respectivo tiempo 
 
@@ -29,6 +29,7 @@ Librerias:
 - GiovynetDriver
 - jSerialComm-1.3.11
 - jgsl-0.1.0-javadoc
+
 ********************************************** CÒDIGO EN ARDUINO ***************
 #include <LiquidCrystal.h>//libreria para el arduino para el uso del LCD
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);//posicion de los poines
